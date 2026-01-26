@@ -1,3 +1,4 @@
+WEB CRAFTS
 The goal of this repository is to:
 - Practice web development concepts
 - Build functional and responsive web applications
